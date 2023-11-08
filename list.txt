@@ -1,3 +1,4 @@
+
 FRUIT AND VEGETABLE
 Bananas
 Oranges
@@ -6,6 +7,9 @@ Apples
 
 MEAT
 Sausage
+Sushi
+BBQ
+Pork with cheese
 
 DAIRY
 Milk
@@ -18,3 +22,6 @@ HOUSEHOLD
 
 
 PETS
+Dog
+Cat
+Hamster
